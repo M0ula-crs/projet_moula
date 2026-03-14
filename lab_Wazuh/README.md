@@ -1,9 +1,9 @@
-# 🔐 Projet Lab — Réseau d'Entreprise Segmenté
+# Projet Lab — Réseau d'Entreprise Segmenté
 
 > Construire l'infrastructure, l'attaquer, puis apprendre à la défendre. Ce lab est mon terrain de jeu pour cartographier le cycle de vie d'une attaque (Red) et concevoir des règles de détection sur-mesure (Blue) au cœur d'un réseau segmenté.
 
 **Statut :** 🟡 En cours — démarré le 28 février 2026  
-**Auteur :** Khalil Abdelmoula · [medium.com/@Kh_abdel](https://medium.com/@Kh_abdel)
+**Auteur :** Khalil Abdelmoula · [medium.com/@Kh_abdel]
 
 ---
 
@@ -64,8 +64,8 @@ Ce lab reproduit un environnement d'entreprise réel pour pratiquer la **défens
 ## Démarche
 
 - [x] **Phase 1** — Conception réseau (adressage, plan VLAN, matrice des flux)
-- [ ] **Phase 2** — Déploiement pfSense & VLANs
-- [ ] **Phase 3** — Déploiement Active Directory (GPO de durcissement)
+- [x] **Phase 2** — Déploiement pfSense & VLANs
+- [x] **Phase 3** — Déploiement Active Directory (GPO de durcissement)
 - [ ] **Phase 4** — Installation Wazuh Manager + agents + intégration Sysmon
 - [ ] **Phase 5** — Simulation d'attaques (Kali) → validation des alertes
 - [ ] **Phase 6** — Documentation (runbooks, scripts, règles de détection)
